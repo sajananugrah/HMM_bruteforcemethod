@@ -16,7 +16,7 @@ emit[0]=[1.0/6 for j in range(k)]
 emit[1]=[0.1 for j in range(k)]
 emit[1][5]=0.5
 eseq=6
-# Enter the sequence with spaced between the numbers
+# Enter the sequence with spaces between the numbers
 line=input('What is the sequence of emmisions; no commmas: ')
 seq=line.split()
 eseq=[int(value) for value in seq]
