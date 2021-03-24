@@ -6,3 +6,5 @@ It is memory-less. Future states are only affected by current states.
 ![image](https://user-images.githubusercontent.com/81331767/112393995-53177880-8cd2-11eb-899d-6387d2ce3d57.png)
 ###
 Figure 1: Visual representation of HMM using a fair and loaded die
+### 
+So for instance if we rolled, [5 2 3]
