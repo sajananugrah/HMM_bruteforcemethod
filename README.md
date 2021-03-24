@@ -15,7 +15,8 @@ Where P(x) is the probablity of the sequence happening. P0 is the initial probab
 ####
 In our example of [5,2] the probablity of getting that sequence using fair die twice is ... 
 ####
-x = [5,2]
+x = [5,2]\
+###
 P(x) = P0 * P(e0|s0) * P01 * P(e1|s1)
      = 0.5 * (1/6) * 0.9 * (1/6) 
      = 0.125
